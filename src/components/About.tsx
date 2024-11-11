@@ -8,7 +8,7 @@ import { faChevronCircleUp } from "@fortawesome/free-solid-svg-icons/faChevronCi
 const About = () => {
   return (
     <div>
-      <section className="about w-[1440px] min-h-[100vh] bg-[#002057] ">
+      <section className="about w-[1400px] min-h-[100vh] bg-blue-600 ">
         <h2 className="heading text-4xl pt-12 text-white font-extrabold flex justify-center items-center">
           <FontAwesomeIcon icon={faUser} className='w-8 h-8 mr-2' />
           About Me
